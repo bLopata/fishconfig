@@ -1,0 +1,1 @@
+nohup gkrellm &>/dev/null &
